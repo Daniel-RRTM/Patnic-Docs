@@ -1,0 +1,94 @@
+site_name : P@tnicRoom Wiki 
+
+
+repo_url  : https://github.com/Daniel-RRR/Patnic-Src
+site_url  : https://daniel-rrr.github.io
+
+
+nav:
+  - ">>> GO TO DOCS <<<" : "../.."
+  - "" : ""
+  - "" : ""
+  - "" : ""
+
+  - Actor Attributes :
+    - 'Race'      : "Overview/Races.md"
+    - 'Role'      : "Overview/Roles.md"
+    - 'Specialty' : "Overview/Specialties.md"
+
+  - Chunk :
+    - 'Tile'         : "Overview/Tile.md"
+    - 'TileSet'      : "Overview/TileSets.md"
+    - 'Interactable' : "Overview/Interactables.md"
+
+  - KitSet :
+    - 'Core'   : "Overview/BaseKitParts.md"
+  
+  - Event :
+    - 'Conditions'   : "Overview/Conditions.md"
+    - 'Statmods'     : "Overview/Statmods.md"
+  
+  - 'Cmd' : "Overview/Cmd.md"
+  - 'Components' : "Overview/Components.md"
+
+
+ 
+
+
+plugins:
+  - search:
+      lang      : en
+      separator : '[\s\-\.]+'
+
+
+theme:
+  name : material
+
+
+  palette:
+    scheme   : slate
+    language : en
+    
+    primary  : light green
+    accent   : cyan
+
+
+    features:
+      - search.suggest
+      - search.highlight
+
+      - toc.integrate
+      
+      - navigation.top
+      - navigation.sections
+      - navigation.expand
+
+
+  highlightjs   : true
+  hljs_languages:
+      - yaml
+      - rust
+      - GDScript
+      - JSON
+      - Python
+
+
+  shortcuts:
+    help     : 9      # tab
+    next     : 39     # right arrow
+    previous : 37     # left arrow
+    search   : 17     # cntrl
+
+
+  font:
+    text : Ubuntu
+    code : IBM Plex Sans Hebrew
+
+
+
+
+
+
+
+
+

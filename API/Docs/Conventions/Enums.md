@@ -1,0 +1,332 @@
+
+
+### BASE_GAME_DATA_PATH
+res://GameData/GameElements/
+
+
+### STABLE_GAME_DATA
+res://GameData/GameElements//Stable
+
+
+### COMMUNITY_GAME_DATA
+res://GameData/GameElements//Community
+
+
+### PERSONAL_GAME_DATA
+res://GameData/GameElements//Personal
+
+
+### MOUSE_INPUT_MODE
+0.  ONLOOK
+0.  LOOT
+
+
+### TILE_PIXEL_SIZE
+16
+
+
+### CENTER_TO_DRAW
+
+
+### CENTER_TO_DRAW
+X: 32 Y: 31
+
+
+### DIRECTION_FOUR
+0.  NORTH
+0.  EAST
+0.  SOUTH
+0.  WEST
+
+
+### ACTION_PHASE
+0.  EFFECT_DONE
+0.  PLAYER_DONE
+0.  NPC_DONE
+
+
+### TYPES_ON_MAP
+0.  TILE
+0.  ACTOR
+0.  INTERACT
+0.  MARKER
+0.  PLAYER
+0.  LOOT_SOURCE
+
+
+### M_TYPE
+0.  MEAT
+0.  MAGIC
+0.  MATRIX
+
+
+### LAYER
+0.  ACTOR
+0.  PLAYER
+0.  MEAT_GROUND
+0.  MEAT_INTERACTABLE
+0.  MATRIX_GROUND
+0.  MATRIX_INTERACTABLE
+0.  MAGIC_GROUND
+0.  MAGIC_INTERACTABLE
+0.  SELECTION
+0.  CONDITION
+
+
+### ENTROPY_TO_STRING
+0.  Masterfully crafted Clockwork
+0.  Tide up
+0.  Manageable
+0.  Mess
+0.  Pigstall
+0.  Chaotic
+0.  Left for good
+0.  Tipping point
+0.  Spiraling out!!
+0.  TRUE COSMIC VACUUM
+
+
+### PROGRESS_COLOR
+0.  #97a4c3
+0.  #97a4c3
+0.  #a7a7a7
+0.  #a7a7a7
+0.  #e7cd7b
+0.  #e7cd7b
+0.  #db6322
+0.  #db6322
+0.  #db2222
+0.  #ff0e0e
+
+
+### RARITY_TO_STRING
+0.  Drek
+0.  Worn out
+0.  Do it yourself
+0.  Wageslave
+0.  Industrial
+0.  Upper class
+0.  Federal
+0.  Fixer
+0.  Elite runner
+0.  Megacon prototype
+
+
+### VALUE
+0.  DREK
+0.  WORN_OUT
+0.  DO_IT_YOURSELF
+0.  WAGESLAVE
+0.  INDUSTRIAL
+0.  UPPER_CLASS
+0.  FEDERAL
+0.  FIXER
+0.  ELITE_RUNNER
+0.  MEGACON_PROTOTYPE
+
+
+### PEACES_TILL_NEW_SLOT
+4
+
+
+### STATION_MODE
+0.  ADD
+0.  REMOVE
+0.  CHANGE
+
+
+### CAT_MATRIX
+0.  HACK
+0.  DRONE
+0.  CYBERWARE
+
+
+### CAT_MAGIC
+0.  RITE
+0.  SPELL
+0.  INFUSION
+
+
+### CAT_MEAT
+0.  GUN
+0.  MEELE
+0.  ARMOR
+
+
+### CATEGORY
+0.  HACK
+0.  DRONE
+0.  CYBERWARE
+0.  RITE
+0.  SPELL
+0.  INFUSION
+0.  GUN
+0.  MEELE
+0.  ARMOR
+
+
+### PARTS
+0.  BASE
+0.  MOD
+0.  APPENDIX
+
+
+### ROOMS_FOR_TRAIT_NEEDED
+3
+
+
+### MAX_TEAM_SIZE
+4
+
+
+### ATTRIBUTE
+0.  AGILLITY
+0.  CONSTITUTION
+0.  STRENGTH
+0.  REACTION
+0.  LOGIC
+0.  INTUITION
+0.  WILLPOWER
+0.  CHARISMA
+
+
+### SKILL
+0.  CRAFTING
+0.  PHYLOSOPHIZING
+0.  CONCEPTUALICING
+0.  PERCEVING
+0.  ASSENSING
+0.  DEBUGGING
+0.  ENDURING
+0.  COPING
+0.  FILTERING
+0.  SNEAKING
+0.  REPRESSING
+0.  SILENCING
+
+
+### PLAYER_STATE
+0.  STANDING
+0.  SELECTING
+0.  NEEDING_DIRECTION
+0.  SELECTING_DIRECTION
+0.  INVALID
+0.  FINISHED
+
+
+### INPUT_MODE
+0.  MOUSE
+0.  KEY
+
+
+### INTERFACE
+0.  CNTL
+0.  DELETE
+0.  ESCAPE
+0.  ENTER
+0.  LEFT_CLICK
+0.  RIGHT_CLICK
+
+
+### MOVEMENT
+0.  NORTH
+0.  EAST
+0.  SOUTH
+0.  WEST
+
+
+### ACTION
+0.  SELECT
+0.  INTERACT
+0.  PARCTISE
+0.  ONLOOK
+0.  LOOT
+0.  USE
+
+
+### INFO
+0.  JURNAL
+0.  MONITOR
+0.  NEWS
+0.  KITS
+0.  CLI
+
+
+### SCREEN_TYPE
+0.  STATION
+0.  SELF
+0.  SPECIAL
+
+
+### INPUT_MODE
+0.  MOUSE
+0.  KEY
+
+
+### STATION
+0.  WORKSHOP
+0.  TERMINAL
+0.  RETREAT
+
+
+### SPECIAL
+0.  PANIC
+
+
+### SELF
+0.  INVENTORY
+0.  CHAR
+0.  ROOTNET
+
+
+### EXCEPTIONAL_PARSER
+0.  DEFAULT
+0.  AND
+0.  FLAG
+0.  HAS_COMP
+0.  COMPARE_COMP
+0.  PERMANENT_CHANGE
+
+
+### VALUE_DEPTH
+0.  UPPER
+0.  MIDDLE
+0.  LOWER
+0.  CONNECTOR
+0.  CONDITION
+0.  VALUE
+
+
+### GUI_SUB_SCENES
+0.  EQUIPED_KIT_SET
+0.  INVENTORY
+0.  KIT_PART_BROWSER
+0.  KIT_SET_MODDER
+0.  KIT_SET_TO_STRING
+0.  REST_HUD
+0.  CHEAT_CLI
+0.  EVENT_TO_STRING
+
+
+### KITS_AT_START
+res://config/KitsAtStart.json
+
+
+### SUB_TITLES
+res://Config/DynamicSubtitles.json
+
+
+### SAVE_STATE
+res://Config/SaveState
+
+
+### TILE_SETS
+res://GameData/Tiled/TileSets/JSON
+
+
+### SCENES
+0.  TITLE
+0.  REST
+0.  PANIC
+0.  ALECANDRIA
+

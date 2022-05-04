@@ -1,0 +1,140 @@
+site_name : P@tnicRoom Docs 
+
+
+repo_url  : https://github.com/Daniel-RRR/Patnic-IDE
+site_url  : https://daniel-rrr.github.io
+
+
+nav:
+  - ">>> GO TO WIKI <<<" : "../../../.."
+  - "" : ""
+  - "" : ""
+  - "" : ""
+
+  - Cogsmos Framework :
+
+
+    - DemocrECS:
+        - 'Overview' : 'CogsmosFramework/DemocrECS/Overview.md'
+
+        - Entity: 
+          - 'Parent'             : 'CogsmosFramework/DemocrECS/Entity/Entity.md'  
+          - Chunk : 
+            - 'Tile'             : 'CogsmosFramework/DemocrECS/Entity/Chunk/Tile.md'
+            - 'Interactable'     : 'CogsmosFramework/DemocrECS/Entity/Chunk/Interact.md'
+            - 'Actor'            : 'CogsmosFramework/DemocrECS/Entity/Chunk/Actor.md'
+          - KitSet: 
+            - 'Overview'         : 'CogsmosFramework/DemocrECS/Entity/KitSet/KitSet.md'
+            - 'KitPart'          : 'CogsmosFramework/DemocrECS/Entity/KitSet/KitPart.md'
+          - Event : 
+            - 'Overview'         : 'CogsmosFramework/DemocrECS/Entity/Event/Condition.md'
+            - 'Condition'        : 'CogsmosFramework/DemocrECS/Entity/Event/Effect.md'
+          - Misc : 
+            - 'RNGActorTemplate' : '?????'
+
+        - Component:
+          - 'Overview'           : 'CogsmosFramework/DemocrECS/Entity-Attributes/Components/Component.md'
+          - 'List'               : 'CogsmosFramework/DemocrECS/Entity-Attributes/Components/List.md'
+
+        - System:
+          - 'Overview'           : 'CogsmosFramework/DemocrECS/System/Overview.md'
+
+
+    - SokraTiles   :
+      - 'Overview' : 'CogsmosFramework/SokraTiles/Overview.md'
+      - 'Layering' : 'CogsmosFramework/sokraTILES/Layering.md'
+    
+    
+    - ALECandria   :
+      - 'Overview' : 'CogsmosFramework/ALECandria/Overview.md'
+    
+    
+    - ArisProcGenes :
+      - 'Overview'  : 'CogsmosFramework/ArisProcGenes/Overview.md'
+
+
+
+  - Conventions:
+    - 'Styling'      : 'Conventions/Styling.md'
+    - Lists:
+      - 'Namings'    : 'Conventions/Namings.md'
+      - 'Enums'      : 'Conventions/Enums.md'
+    - Syntax: 
+      - 'Effect'     : ''
+      - 'Loot Table' : ''
+      
+
+
+      
+  - Modules:
+    - '001_Atlas'            : 'Modules/001/Overview.md'
+    - '002_TilemapStructure' : 'Modules/002/Overview.md'
+    - '003_Player'           : 'Modules/003/Overview.md'
+    - '004_KitSet'           : 'Modules/004/Overview.md'
+    - '005_Event'            : 'Modules/005/Overview.md'
+    - '006_Conditions'       : 'Modules/006/Overview.md'
+    - '007_StatMods'         : 'Modules/007/Overview.md'
+    - '008_CLI'              : 'Modules/008/Overview.md'
+    - '009_Sound'            : 'Modules/009/Overview.md'
+    - '011_ProcGen_Actor'    : 'Modules/011/Overview.md'
+    - '012_ProcGen_Loot'     : 'Modules/012/Overview.md'
+    - '013_ProcGen_Chunk'    : 'Modules/013/Overview.md'
+
+
+
+
+
+
+
+
+plugins:
+  - search:
+      lang      : en
+      separator : '[\s\-\.]+'
+
+
+theme:
+  name : material
+
+
+  palette:
+    scheme   : slate
+    language : en
+    
+    primary  : cyan
+    accent   : lime
+
+
+  features:
+    - search.suggest
+    - search.highlight
+
+
+  highlightjs   : true
+  hljs_languages:
+      - yaml
+      - rust
+      - GDScript
+      - JSON
+      - Python
+
+
+  shortcuts:
+    help     : 9      # tab
+    next     : 39     # right arrow
+    previous : 37     # left arrow
+    search   : 17     # cntrl
+
+
+  font:
+    text : Ubuntu
+    code : IBM Plex Sans Hebrew
+
+
+
+
+
+
+
+
+
