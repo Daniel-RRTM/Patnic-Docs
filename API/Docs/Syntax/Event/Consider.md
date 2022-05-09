@@ -7,10 +7,13 @@ Performance will be triggered if the Entity has this Component and the Condition
 3. [Component](../../CogsmosFramework/DemocrECS/Entity-Attributes/Components/List.md)  
 4. ``EQUALLS`` ``NOT`` ``LESS THAN`` ``MORE THAN``
 5. Value  
+(OPTIONAL)
+6. can be multiple values, separated by ``AND``
   
 ````
 THIS ---> COMP C_1_IS_WALKABLE EQUALLS TRUE
 AND ---> COMP C_1_IS_WALKABLE NOT TRUE
+AND ---> COMP C_11_RACE_NAME EQUALLS Orc AND Troll
 
 OR ---> COMP C_48_RARITY MORE THAN 2
 OR ---> COMP C_48_RARITY LESS THAN 5
