@@ -1,42 +1,50 @@
-# Welcome to the Encyclopedia of P@tnicRoom!
+# **Your Wiki for everything in the Game!**
+  
+## **Hello there!**
+We are happy you have found your way to the Game and eager to learn more about it!  
+This Site is for **Players** and contains all **Game Elements** like Races, Tiles or Items.  
+  
+[**Click here**]() if you are looking for Docs of the technical Implementations.  
+  
+Both Sites are still under construction, we appreciate every feedback to improve its formatting, wording and Navigation! :)  
 
-This site is for **Players** if you are a Developer and looking for the **[Docs click here]()**  
+---
   
+## **Getting Started**
+P@tnicRoom breaks its Game Elements into very small pieces of attributes called **Components**. I.E. ``C_1_IS_WALKABLE = true``  
+The number is not relevant for the Element, its used to make the Component itself unique and distinguishable.  
+  
+Components may get quickly underestimated because of their trivial scale, but they are more than the sum of their parts!  
+By describing somethings attributes in such small steps, it gets compatible to interact with everything else in the Game, no matter its nature.
+  
+**The most often seen are:**  
+  
+[**Tiles**:](Overview_Enviroment.md) Grass, Concrete or Puddles  
+[**Interactables**:](Overview_Enviroment.md) Automatons, Doors or Walls  
+[**Actors**:](Overview_ActorAttributes.md) Humans, Ghosts or Computer-Viruses  
+[**Kits**:](Overview_ActorAttributes.md) Gear, Talents, learned Skills  
   
 ---
-## Introduction
-You can find here all kinds of Information to Game elements.  
-We encourage to use this collection while playing as a handy to get needed information.  
   
-This content can also be found in the game via the Rest-mode, its no cheating tto make your experience more comfortable :)
+## **Quickreferences**
   
+1. **Entities** are set together by [**Templates**](), [**Components**](), [**Flags**]() and [**Properties**]().  
+<br>  
   
----
-## Getting started
-If you want to dive deep into the Concepts and Systems of P@nicRoom, we recommend to start at the [different types of Game elements]().  
+2. **Chunks** consists of static [**Tiles**]() and wilingless [**Interactables**]().
+    * They are saved in [**TileSets**](), named after its theme.  
+<br>  
   
-Something that can expand your understanding is the [meaning of parts in a Kitset]().
+3. **Actors** get their values by [**Race**](), [**Role**]() and [**Specialty**]().
+    * They can be procedurally generated with [**ActorSpawnTables**]().  
+<br>  
   
-  
----
-## Overviews
-Are you looking for something? Here are some suggestions to start searching:  
-  
-* [Tiles](Overview_Enviroment.md) are the more simple stuff on a Map  
-* [Interactables](Overview_Enviroment.md) are like Tiles on a map but have a rather more complex usage  
-* [Actors](Overview_ActorAttributes.md) are like players capable of doing things, often humanlike but not neccesarrily  
-* [Kitsets](Overview_Kitparts.md) are integral     for survival and progression, they are puzzled together by [3 parts](Overview_Kitparts.md)
-  
-  
----
-## Quickreferences
+4. **Kits** are used by Actors and the Player to survive and progress.
+    * They need at least a [**Core**]() and optionally an [**Upgrade**]() and [**Trait**]().
+    * Each plane of perceiption has three categorices:
+        * [**Meat**]() has [**Meele**]() and [**Gun**]() and [**Armor**]()
+        * [**Magic**]() has [**Infusion**]() and [**Spell**]() and [**Rite**]()
+        * [**Matrix**]() has [**Cyberware**]() and [**Hack**]() and [**Drone**]()
 
-[Tiles by Group](Atlas/Atlas_Tilesets.md)  
-  
-[Base Kitparts](Atlas/Atlas_Kitparts.md)  
-[Mod Kitparts](Atlas/Atlas_Tilesets.md)  
-[Appendix Kitparts](Atlas/Atlas_Tilesets.md)  
-  
-[Race of Actors](Atlas/Atlas_Race.md)  
-[Role of Actors](Atlas/Atlas_Role.md)  
-[Specialty of Actors](Atlas/Atlas_Specialty.md)  
+
+

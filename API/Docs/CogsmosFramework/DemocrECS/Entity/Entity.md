@@ -63,7 +63,7 @@ Lorem Ipsum
 ## Common Functions
 
 ### getComp(compIndex)
-**1st Parameter :** [String of class of Component](../Component/List.md)
+**1st Parameter :** [String of class of Component](../Entity-Attributes/Components/Component.md)
 
 **Returns       :** Class of the same Name  
 
@@ -81,7 +81,7 @@ for compToString in ent.components.keys():
 ---  
   
 ### getCompValue(compIndex)
-**1st Parameter :** [String of class of Component](../Component/List.md)
+**1st Parameter :** [String of class of Component](../Entity-Attributes/Components/Component.md)
 
 **Returns :**  Component.value as dynamically typed
 
@@ -119,7 +119,7 @@ WIP
 ---
   
 ### addComponent(compInstance)
-**1st Parameter :**   [Instance of a Component](../Component/List.md)
+**1st Parameter :**   [Instance of a Component](../Entity-Attributes/Components/Component.md)
 
 **Returns :**  void
 
@@ -143,7 +143,7 @@ for ent in allEnts :  print(ent.getCompValue("C_6_NAME"))
 ---
   
 ### removeComponent(compName)
-**1st Parameter :**   [Stringof class of Component](../Component/List.md)
+**1st Parameter :**   [Stringof class of Component](../Entity-Attributes/Components/Component.md)
 
 **Returns :**  void
 

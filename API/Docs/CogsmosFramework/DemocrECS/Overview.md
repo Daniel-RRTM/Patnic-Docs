@@ -18,10 +18,10 @@ We use a common variant called ECS, in addition of a Flyweight pattern called Te
 [**C** omponent](../DemocrECS/Entity-Attributes/Components/Component.md):  
 ``A container for a value, standardiced by its name ``
 
-[**T** emplat]():  
+[**T** emplat](../DemocrECS/Entity/Template.md):  
 ``A set of components which are commonly shared``
   
-[**S** ystem]():  
+[**S** ystem](../DemocrECS/System/Overview.md):  
 `` A plugable module of functions which modify, create or delete Entities``
   
 ---

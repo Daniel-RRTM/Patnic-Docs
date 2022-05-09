@@ -1,4 +1,4 @@
-# Welcome to P@nicRoom’s Documentation
+# Your Docs for everything about the Game!
   
 ## Usage  
 This page contains a technical explanation for the inner workings of the Game.  
