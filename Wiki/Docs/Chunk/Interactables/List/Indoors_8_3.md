@@ -1,0 +1,22 @@
+
+
+# Atlas Interactables
+
+
+
+
+
+### Indoors_8_3
+| Statname | Value | 
+|  --  |  --  | 
+| C_0_DESCRIPTION | A low security door for common housings | 
+| C_12_ATLAS_INDEX | Indoors_8_3 | 
+| C_1_IS_WALKABLE | False | 
+| C_3_LAYER | MEAT_INTERACTABLE | 
+| C_4_MAGIC_NOISE | 0 | 
+| C_58_ALTERNATIVE_TEXTURES | Indoors_6_1 | 
+| C_5_MATRIX_NOISE | 0 | 
+| C_99_TEST | 2 | 
+| C_6_NAME | Simple Door | 
+| C_7_STATIC_TILESET_NR | 131 | 
+

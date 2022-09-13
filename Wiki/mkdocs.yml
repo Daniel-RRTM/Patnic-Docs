@@ -12,9 +12,9 @@ nav:
   - "" : ""
 
   - Actor Attributes :
-    - 'Race'      : "Overview/Races.md"
-    - 'Role'      : "Overview/Roles.md"
-    - 'Specialty' : "Overview/Specialties.md"
+    - 'Race'      : "ActorAttributes/Races/Overview.md"
+    - 'Role'      : "ActorAttributes/Roles/Overview.md"
+    - 'Specialty' : "ActorAttributes/Specialties/Overview.md"
 
   - Chunk :
     - 'Tile'         : "Overview/Tile.md"
@@ -28,8 +28,8 @@ nav:
     - 'Conditions'   : "Overview/Conditions.md"
     - 'Statmods'     : "Overview/Statmods.md"
   
-  - 'Cmd' : "Overview/Cmd.md"
-  - 'Components' : "Overview/Components.md"
+  - 'Cmd' : "Events/Cmds/Overview.md"
+  - 'Components' : "EntityAttributes/Components/Overview.md"
 
 
  
