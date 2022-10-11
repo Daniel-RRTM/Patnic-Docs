@@ -16,7 +16,7 @@
 | C_4_MAGIC_NOISE | 0 | 
 | C_58_ALTERNATIVE_TEXTURES | Indoors_6_0 | 
 | C_5_MATRIX_NOISE | 0 | 
-| C_99_TEST | 1 | 
+| C_65_TIER | 1 | 
 | C_6_NAME | Simple Door | 
 | C_7_STATIC_TILESET_NR | 128 | 
 

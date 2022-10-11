@@ -26,5 +26,5 @@
 | FILE | UNIQ | EXCHANGE_TEXTURE [] | 
 | FILE | COMP | C_1_IS_WALKABLE EQUALS TRUE | 
 
------
+-----  
 

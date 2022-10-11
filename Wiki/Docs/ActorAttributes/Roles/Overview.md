@@ -6,4 +6,13 @@
 
 | Nr | Name | 
 |  --  |  --  | 
+| ARSENIST_1 | [ARSENIST_1](List/ARSENIST_1.md) | 
+| BRAWLER_1 | [BRAWLER_1](List/BRAWLER_1.md) | 
+| GUNSLINGER_1 | [GUNSLINGER_1](List/GUNSLINGER_1.md) | 
+| GUNSLINGER_2 | [GUNSLINGER_2](List/GUNSLINGER_2.md) | 
+| HACKER_1 | [HACKER_1](List/HACKER_1.md) | 
+| HACKER_2 | [HACKER_2](List/HACKER_2.md) | 
+| INFOBROKER_1 | [INFOBROKER_1](List/INFOBROKER_1.md) | 
+| MEDIC_1 | [MEDIC_1](List/MEDIC_1.md) | 
+| SPELLCASTER_1 | [SPELLCASTER_1](List/SPELLCASTER_1.md) | 
 

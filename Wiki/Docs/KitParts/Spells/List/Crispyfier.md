@@ -27,5 +27,5 @@
 | FILE | COND | BURNING 5 3 | 
 | FILE | COMP | C_57_HITPOINTS DECREMENT 1 | 
 
------
+-----  
 

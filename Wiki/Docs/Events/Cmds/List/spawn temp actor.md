@@ -14,5 +14,5 @@
 ### Parameter
 | Name | Valid inputs | 
 |  --  |  --  | 
-| template | EXOTIC, SOCIETIES_CESSPOOL, SUBURBAN_DEFAULT, URBAN_ANIMALS | 
+| template | EXOTIC, SIN_LES, SOCIETIES_CESSPOOL, SPIRIT, SPRITE, SUBURBAN_DEFAULT, URBAN_ANIMALS | 
 

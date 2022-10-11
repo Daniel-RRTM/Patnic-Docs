@@ -26,5 +26,5 @@
 | FILE | COMP | C_57_HITPOINTS INCREMENT 5 | 
 | FILE | COND | INCAPACITATED 2 3 | 
 
------
+-----  
 

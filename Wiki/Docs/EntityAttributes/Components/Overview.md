@@ -37,6 +37,7 @@
 | 29 | [C_29_LISTING_PRICE](List/29.md) | 
 | 30 | [C_30_NEEDED_BACKPACK_SLOTS](List/30.md) | 
 | 31 | [C_31_KIT_CAT_TYPE](List/31.md) | 
+| 32 | [C_32_LISTENER](List/32.md) | 
 | 33 | [C_33_COOLDOWN_TIMER](List/33.md) | 
 | 34 | [C_34_LOG_TO_STRING](List/34.md) | 
 | 35 | [C_35_KIT_MECHANICAL_SUMMARY](List/35.md) | 
@@ -46,14 +47,17 @@
 | 39 | [C_39_KITSLOT_PROGRESSION](List/39.md) | 
 | 41 | [C_41_PERK_PROGRESSION](List/41.md) | 
 | 42 | [C_42_ROLE_VARIETY](List/42.md) | 
+| 43 | [C_43_QUESTS_GIVEN](List/43.md) | 
 | 44 | [C_44_STREETNAME](List/44.md) | 
 | 45 | [C_45_CHARACTER_NAME](List/45.md) | 
 | 46 | [C_46_ACTOR_ITEMS](List/46.md) | 
 | 47 | [C_47_SYNONYM](List/47.md) | 
 | 48 | [C_48_RARITY](List/48.md) | 
 | 49 | [C_49_EVENT_REFERENCE](List/49.md) | 
+| 50 | [C_50_VALUABLES](List/50.md) | 
 | 51 | [C_51_PLAYER_KITSETS](List/51.md) | 
 | 52 | [C_52_STARTING_KITSETS](List/52.md) | 
+| 53 | [C_53_LISTENER](List/53.md) | 
 | 56 | [C_56_GEAR](List/56.md) | 
 | 57 | [C_57_HITPOINTS](List/57.md) | 
 | 58 | [C_58_ALTERNATIVE_TEXTURES](List/58.md) | 
@@ -70,5 +74,4 @@
 | 73 | [C_73_KITSET_OF_EVENT](List/73.md) | 
 | 74 | [C_74_EVENT_MAIN_DICT](List/74.md) | 
 | 76 | [C_76_EVENT_REFERENCE_DICT](List/76.md) | 
-| 99 | [C_99_TEST](List/99.md) | 
 

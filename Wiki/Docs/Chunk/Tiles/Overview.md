@@ -164,6 +164,8 @@
 | Conditions_0_0 | [Conditions_0_0](List/Conditions_0_0.md) | 
 | Conditions_0_1 | [Conditions_0_1](List/Conditions_0_1.md) | 
 | Conditions_0_2 | [Conditions_0_2](List/Conditions_0_2.md) | 
+| Conditions_0_3 | [Conditions_0_3](List/Conditions_0_3.md) | 
+| Conditions_0_4 | [Conditions_0_4](List/Conditions_0_4.md) | 
 | Shop_0_0 | [Shop_0_0](List/Shop_0_0.md) | 
 | Shop_0_1 | [Shop_0_1](List/Shop_0_1.md) | 
 | Shop_0_2 | [Shop_0_2](List/Shop_0_2.md) | 
